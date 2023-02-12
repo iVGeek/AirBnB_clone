@@ -33,7 +33,7 @@ $
 5. Custom Prompt - (hbnb) - N/A
 
 ### Environment
-* Language: C, PYTHON , SHELL , HTML, CSS
+* Language: PYTHON, HTML, CSS.
 * OS: Ubuntu 20.04 LTS
 
 ## CODESMITH 🦊
