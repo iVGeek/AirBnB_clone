@@ -1,5 +1,5 @@
 # Welcome to AirBnB clone - The console 🏡:
-![image](https://github.com/iVGeek/AirBnB_clone/blob/master/screenshot.png)
+![image](https://github.com/iVGeek/AirBnB_clone/web_statics/images/logo.png)
 
 The AirBnB Console allows us to manage the objects of the web app.
 
